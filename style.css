@@ -105,6 +105,18 @@ h3 {
 .ubicacion img {
     width: 64px;
 }
+.ubicacion2 {
+    height: auto;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.ubicacion2 img {
+    width: 64px;
+}
 .lovestory {
     width: 100%;
     height: auto;
